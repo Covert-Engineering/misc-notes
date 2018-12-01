@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 travis travis 4096 Nov 30 23:22 ./
+drwxrwxr-x 5 travis travis 4096 Nov 30 23:22 ../
+drwxr-xr-x 8 travis travis 4096 Nov 30 23:22 .git/
+-rw-r--r-- 1 travis travis  741 Nov 30 23:22 README.md
+-rw-r--r-- 1 travis travis    0 Nov 30 23:22 test.txt
